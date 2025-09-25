@@ -16,7 +16,7 @@ Guidelines for Final Project
 
 The final project can be done individually or in groups of up to five people. The project is to write a paper and make a presentation on an operations strategy "comparison study." Identify a pair of organizations in the same (or similar) industry and compare their operations strategies. Assess the strengths and weaknesses of each company and give your opinions on the appropriateness of the operations strategy of each. Give your opinions on the relative competitive strengths of each company going forward in time and the role that operations play in each company's competitive strengths and weaknesses. You may use public or private companies, large or small, foreign or domestic.
 
-{{% resource_link "a45807dc-5d3c-4037-ba22-7e46809f3b0e" "Leaders for Global Operations" %}} students may use their internship company as one of the companies in the final paper and thus use what was learned during the internship as the basis of the project.
+[Leaders for Global Operations](http://lgo.mit.edu//) students may use their internship company as one of the companies in the final paper and thus use what was learned during the internship as the basis of the project.
 
 The paper should be 15-20 pages in length (double-spaced, 12 point font with one-inch margins on each side). Examples of company pairs might be: HP/Dell, Toyota/Honda, Starbucks/Au Bon Pain , Fedex/ UPS, Fidelity/Vanguard, Mass General Hospital/Beth Israel, etc. The paper is due during Ses #23.
 

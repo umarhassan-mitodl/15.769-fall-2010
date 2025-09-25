@@ -49,7 +49,7 @@ Course introduction; Innovation and operations discipline
 {{< tdopen >}}
 
 
-Arndt, Michael. "{{% resource_link "3eb73b13-9f53-4664-94ad-e5cbc00dafc8" "McDonald's 24/7" %}}." _Business Week_, February 5, 2007.
+Arndt, Michael. "[McDonald's 24/7](http://www.businessweek.com/magazine/content/07_06/b4020001.htm)." _Business Week_, February 5, 2007.
 
 ### Case
 
@@ -123,11 +123,11 @@ Womack, James P., Daniel T. Jones, and Daniel Roos. Chapters 1-3 in _The Machine
 
 Rabinowitz, Gavin. "Tata Reveals World's Cheapest Car." _Boston Globe_, January 10, 2008.
 
-Giridharadas, Anand. "{{% resource_link "be757ce2-0b91-4eb0-81d5-eb5715466051" "Four Wheels for the Masses: The $2,500 Car" %}}." _New York Times_, January 8, 2008.
+Giridharadas, Anand. "[Four Wheels for the Masses: The $2,500 Car](http://www.nytimes.com/2008/01/08/business/worldbusiness/08indiacar.html)." _New York Times_, January 8, 2008.
 
-Darukhanawala, Adil Jal. "{{% resource_link "e9f3dc5d-e521-4b77-9ab3-0a7de5ccdd46" "Engineering the Nano" %}}." _Times of India_, January 11, 2008.
+Darukhanawala, Adil Jal. "[Engineering the Nano](https://timesofindia.indiatimes.com/business/india-business/engineering-the-nano/articleshow/2693758.cms)." _Times of India_, January 11, 2008.
 
-Gertner, Jon. "{{% resource_link "aa9d3f7d-a5dd-4d5a-a2b3-31a1ed2a1522" "From 0 to 60 to World Domination" %}}." _New York Times_, February 18, 2007.
+Gertner, Jon. "[From 0 to 60 to World Domination](http://www.nytimes.com/2007/02/18/magazine/18Toyota.t.html?pagewanted=all&_r=1&)." _New York Times_, February 18, 2007.
 
 
 {{< tdclose >}}
@@ -387,7 +387,7 @@ Competing on cost versus competing on features and innovativeness
 
 "Strategy Development and Practice." Chapter 11 of \[B&R\].
 
-Vogelstein, Fred. "{{% resource_link "9276fc75-7ff4-4fd1-991d-b387e0353990" "The Untold Story: How the iPhone Blew Up the Wireless Industry" %}}." _Wired Magazine_, January 9, 2008.
+Vogelstein, Fred. "[The Untold Story: How the iPhone Blew Up the Wireless Industry](http://archive.wired.com/gadgets/wireless/magazine/16-02/ff_iphone?currentPage=all)." _Wired Magazine_, January 9, 2008.
 
 ### Case
 
@@ -407,9 +407,9 @@ Competition in the housing industry: Improving cost, quality and availability
 {{< tdopen >}}
 
 
-Leinberger, Christopher B. "{{% resource_link "d480cd36-62ef-4d78-aca6-6a61f7ea744a" "The Next Slum?" %}}" The Atlantic, March 2008.
+Leinberger, Christopher B. "[The Next Slum?](http://www.theatlantic.com/magazine/archive/2008/03/the-next-slum/6653/)" The Atlantic, March 2008.
 
-Corkery, Michael. "{{% resource_link "d8176833-d719-41ce-9c80-db3bbd2c35d0" "Mortgage Mess Hits Home For Nation's Small Builders" %}}." _Wall Street Journal_, March 21, 2008.
+Corkery, Michael. "[Mortgage Mess Hits Home For Nation's Small Builders](http://online.wsj.com/article/SB120605561602953221.html)." _Wall Street Journal_, March 21, 2008.
 
 ### Case
 
@@ -459,13 +459,13 @@ Globalization, joint ventures, sourcing overseas, and macroeconomic effects of o
 {{< tdopen >}}
 
 
-"{{% resource_link "4e9f6fcd-3eea-4837-b72e-881a4fba1066" "Time to Change the Act" %}}." _The Economist_, February 19, 2009.
+"[Time to Change the Act](http://www.economist.com/node/13145129?story_id=13145129)." _The Economist_, February 19, 2009.
 
-Von Drehle, David. "{{% resource_link "b3387933-fac5-4cb7-9185-c76baa994617" "Yes, We'll Still Make Stuff" %}}." _Time Magazine_, May 14, 2009.
+Von Drehle, David. "[Yes, We'll Still Make Stuff](http://content.time.com/time/specials/packages/article/0,28804,1898024_1898023_1898085,00.html)." _Time Magazine_, May 14, 2009.
 
 Grove, Andy. "How to Make an American Job Before It's Too Late." _Bloomberg_, July 1, 2010.
 
-Wadhwa, Vivek. "{{% resource_link "09c6d9d3-3663-4ebb-a6ca-f1863a8fc550" "Why Andy Grove is Wrong About Job Growth" %}}." _Bloomberg Businessweek_, July 9, 2010.
+Wadhwa, Vivek. "[Why Andy Grove is Wrong About Job Growth](http://www.businessweek.com/technology/content/jul2010/tc2010079_953836.htm)." _Bloomberg Businessweek_, July 9, 2010.
 
 
 {{< tdclose >}}
@@ -555,7 +555,7 @@ Hammer, Michael, and Steven Stanton. _The Reengineering Revolution_. Harper Busi
 
 Klein, Janice A. _Revitalizing Manufacturing: Text and Cases_. CRC Press, 1992. ISBN: 9780256068092.
 
-{{% resource_link "e4e08c01-6431-4606-82d9-746492d243aa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dertouzos, Michael L., Richard K. Lester, and Robert M. Solow. {{% resource_link "e4e08c01-6431-4606-82d9-746492d243aa" "_Made In America: Regaining the Productive Edge_" %}}. MIT Press, 1989. ISBN: 9780262041003.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041003) Dertouzos, Michael L., Richard K. Lester, and Robert M. Solow. [_Made In America: Regaining the Productive Edge_](https://mitpress.mit.edu/9780262041003). MIT Press, 1989. ISBN: 9780262041003.
 
 Cohen, Stephen S., and John Zysman. _Manufacturing Matters: The Myth of the Post-Industrial_. Basic Books, 1988. ISBN: 9780465043859.
 

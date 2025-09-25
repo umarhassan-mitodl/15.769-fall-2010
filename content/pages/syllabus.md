@@ -37,7 +37,7 @@ Finally, in the fourth part we will examine some issues in operations policy and
 Intended Audience
 -----------------
 
-This class is for anyone interested in operations and strategy, with a focus on second-year {{% resource_link "301ac58c-8d22-49ec-8613-727d7b0b1d65" "Leaders for Global Operations" %}} and management students, particularly those aspiring to careers in (1) operations, (2) general management, (3) entrepreneurship, or (4) management consulting. A working knowledge of operations, which, for many firms, employs the greatest number of employees and requires the largest investment in assets, is often indispensable for general managers and entrepreneurs.
+This class is for anyone interested in operations and strategy, with a focus on second-year [Leaders for Global Operations](http://lgo.mit.edu/) and management students, particularly those aspiring to careers in (1) operations, (2) general management, (3) entrepreneurship, or (4) management consulting. A working knowledge of operations, which, for many firms, employs the greatest number of employees and requires the largest investment in assets, is often indispensable for general managers and entrepreneurs.
 
 Readings
 --------
