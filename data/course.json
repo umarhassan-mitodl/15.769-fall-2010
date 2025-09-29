@@ -31,6 +31,7 @@
     "website": "15-769-operations-strategy-fall-2010"
   },
   "course_title": "Operations Strategy",
+  "hide_download": true,
   "course_description": "_15.769 Operations Strategy_ provides a unifying framework for analyzing strategic issues in manufacturing and service operations. Students analyze the relationships between manufacturing and service companies and their suppliers, customers, and competitors. The course covers strategic decisions in technology, facilities, vertical integration, human resources, and other areas, and also explores means of competition such as cost, quality, and innovativeness.\n",
   "department_numbers": [
     "15"
@@ -41,6 +42,7 @@
     "content": "1615ec4a-dd2a-1513-8dd9-83524f7aa4b9",
     "website": "15-769-operations-strategy-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
